@@ -18,6 +18,7 @@
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Guide Structure](#guide-structure)
+- [Demo Scripts](#demo-scripts)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage Examples](#usage-examples)
@@ -103,6 +104,53 @@ The guide is organized into progressive sections:
 
 ### Quick Reference
 - **Essential One-Liners** - Powerful commands for immediate use
+
+## Demo Scripts
+
+The repository includes a comprehensive collection of demo scripts organized by difficulty level:
+
+### Scripts Directory Structure
+
+```
+scripts/
+├── 01-beginner/        # Basic PowerShell concepts
+├── 02-intermediate/    # System administration tasks
+├── 03-advanced/        # Complex automation and monitoring
+├── 04-automation/      # DevOps and infrastructure scripts
+├── 05-utilities/       # Standalone utility tools
+└── README.md          # Detailed scripts documentation
+```
+
+### Featured Scripts
+
+| Category | Script | Description |
+|----------|--------|-------------|
+| **Beginner** | `hello-world.ps1` | Comprehensive introduction to PowerShell scripting |
+| **Beginner** | `system-info.ps1` | System information gathering and reporting |
+| **Intermediate** | `file-organizer.ps1` | Automated file organization by type, date, or size |
+| **Advanced** | `system-monitor.ps1` | Real-time system monitoring with alerting |
+| **Utilities** | `password-generator.ps1` | Secure password generation with customization |
+
+### Quick Start with Scripts
+
+```powershell
+# Navigate to scripts directory
+Set-Location .\scripts
+
+# Run a beginner script
+.\01-beginner\hello-world.ps1 -Name "PowerShell" -Language English -Verbose
+
+# Try system information gathering
+.\01-beginner\system-info.ps1 -Detailed -ShowServices
+
+# Organize files (with WhatIf for safety)
+.\02-intermediate\file-organizer.ps1 -OrganizeBy ByType -WhatIf
+
+# Generate secure passwords
+.\05-utilities\password-generator.ps1 -Length 16 -IncludeSpecial -RequireAll
+```
+
+**For complete scripts documentation**: See [scripts/README.md](./scripts/README.md)
 
 ## Prerequisites
 
