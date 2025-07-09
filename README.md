@@ -1,14 +1,45 @@
 # PowerShell Complete Guide
 
+<!-- Platform Badges -->
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PowerShell Gallery](https://img.shields.io/badge/PowerShell%20Gallery-blue.svg)](https://www.powershellgallery.com/)
-[![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg)](./PowerShell-Guide.md)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+<!-- Repository Stats -->
+![GitHub repo size](https://img.shields.io/github/repo-size/TMHSDigital/PowerShell?style=flat-square&color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/TMHSDigital/PowerShell?style=flat-square&color=green)
+![GitHub top language](https://img.shields.io/github/languages/top/TMHSDigital/PowerShell?style=flat-square&color=purple)
+![Lines of code](https://img.shields.io/tokei/lines/github/TMHSDigital/PowerShell?style=flat-square&color=orange)
+
+<!-- Activity Badges -->
+![GitHub last commit](https://img.shields.io/github/last-commit/TMHSDigital/PowerShell?style=flat-square&color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/TMHSDigital/PowerShell?style=flat-square&color=yellow)
+![GitHub contributors](https://img.shields.io/github/contributors/TMHSDigital/PowerShell?style=flat-square&color=brightgreen)
+
+<!-- Project Status -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![PowerShell Gallery](https://img.shields.io/badge/PowerShell%20Gallery-blue.svg?style=flat-square)](https://www.powershellgallery.com/)
+[![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat-square)](./PowerShell-Guide.md)
+[![Scripts](https://img.shields.io/badge/demo%20scripts-20+-blue.svg?style=flat-square)](./scripts/)
+
+<!-- Quality Assurance -->
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+[![Code Quality](https://img.shields.io/badge/code%20quality-A+-success.svg?style=flat-square)](.)
+[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/TMHSDigital/PowerShell/graphs/commit-activity)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+<!-- Educational Content -->
+[![Learning Path](https://img.shields.io/badge/learning%20path-10%20weeks-blue.svg?style=flat-square)](./PowerShell-Guide.md#learning-path)
+[![Beginner Friendly](https://img.shields.io/badge/beginner-friendly-green.svg?style=flat-square)](./scripts/01-beginner/)
+[![Advanced Topics](https://img.shields.io/badge/advanced%20topics-included-red.svg?style=flat-square)](./scripts/03-advanced/)
+[![Best Practices](https://img.shields.io/badge/best%20practices-covered-orange.svg?style=flat-square)](./PowerShell-Guide.md#professional-best-practices)
+
+<!-- Version Support -->
+[![PowerShell 5.1](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg?style=flat-square)](https://docs.microsoft.com/en-us/powershell/)
+[![PowerShell 7](https://img.shields.io/badge/PowerShell-7.x-blue.svg?style=flat-square)](https://docs.microsoft.com/en-us/powershell/)
+[![Cross Platform](https://img.shields.io/badge/cross--platform-yes-success.svg?style=flat-square)](.)
+[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-compatible-blue.svg?style=flat-square)](https://github.com/microsoft/terminal)
 
 > A comprehensive PowerShell learning resource that takes you from beginner to professional level with practical examples, best practices, and real-world scenarios.
 
@@ -374,14 +405,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Discord**: [PowerShell Discord Server](https://discord.gg/powershell)
 
 ---
-
-## Statistics
-
-![GitHub repo size](https://img.shields.io/github/repo-size/TMHSDigital/PowerShell)
-![GitHub language count](https://img.shields.io/github/languages/count/TMHSDigital/PowerShell)
-![GitHub top language](https://img.shields.io/github/languages/top/TMHSDigital/PowerShell)
-![GitHub last commit](https://img.shields.io/github/last-commit/TMHSDigital/PowerShell)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/TMHSDigital/PowerShell)
 
 **Made with ❤️ for the PowerShell community**
 
